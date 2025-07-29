@@ -17,7 +17,7 @@ public class ArrayProcessor {
         // 4. 짝수라면 합계 변수에 더하세요.
         // 5. 반복문이 끝나면 최종 합계를 반환하세요.
 
-        return sum; // 임시 반환 값
+        return sum;
     }
 
     public static void main(String[] args) {
